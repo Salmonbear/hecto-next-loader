@@ -1,0 +1,110 @@
+.root:global(.__wab_instance) {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+  max-width: 100%;
+  object-fit: cover;
+  background: #ffffff;
+  position: relative;
+  padding: 16px;
+}
+.link__dhYtV {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 0px;
+}
+.text {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 800px;
+  color: #0205d3;
+  font-weight: 700;
+  align-self: center;
+  font-size: 28px;
+  min-width: 0;
+}
+.img__jPdEs {
+  object-fit: cover;
+}
+.img__jPdEs > picture > img {
+  object-fit: cover;
+}
+.img__jPdEs > :global(.__wab_img-spacer) > img {
+  object-fit: cover;
+}
+.img___4Cdh {
+  object-fit: cover;
+}
+.img___4Cdh > picture > img {
+  object-fit: cover;
+}
+.img___4Cdh > :global(.__wab_img-spacer) > img {
+  object-fit: cover;
+}
+.link__gyu5T {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 800px;
+  color: #0506cf;
+  text-align: center;
+  padding: var(--token-eeq5mwYJh);
+}
+.link__sbdo8 {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 800px;
+  color: #0506cf;
+  text-align: center;
+  padding: var(--token-eeq5mwYJh);
+}
+.link__esyf1 {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 800px;
+  color: #0506cf;
+  text-align: center;
+  padding: var(--token-eeq5mwYJh);
+}
+.pricing {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 800px;
+  color: #0506cf;
+  text-align: center;
+  padding: var(--token-eeq5mwYJh);
+}
+.link__ywDm {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 800px;
+  color: #0506cf;
+  text-align: center;
+  padding: var(--token-eeq5mwYJh);
+}
+.signUp {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 800px;
+  color: #0506cf;
+  background: #0205d3;
+  text-align: center;
+  border-radius: 5px;
+  padding: var(--token-eeq5mwYJh);
+}
